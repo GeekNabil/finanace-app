@@ -1,1 +1,1 @@
-https://docs.cs50.net/2018/x/psets/7/finance/finance.html
+This a website via which users can "buy" and "sell" stocks.
